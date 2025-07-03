@@ -1,0 +1,286 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Jasur",
+      "lastName": "Khojiabkarov",
+      "birthDate": "1990-01-01",
+      "passport": "3801895",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": 2,
+      "firstName": "Gulchexra",
+      "lastName": "Shermatova",
+      "birthDate": "1985-05-20",
+      "passport": "2807894",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": 3,
+      "firstName": "Alisher",
+      "lastName": "Rahimov",
+      "birthDate": "1988-03-12",
+      "passport": "3901234",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": 4,
+      "firstName": "Dilnoza",
+      "lastName": "Karimova",
+      "birthDate": "1992-07-19",
+      "passport": "4905678",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": 5,
+      "firstName": "Sherzod",
+      "lastName": "Bekmurodov",
+      "birthDate": "1987-02-15",
+      "passport": "3102345",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": 6,
+      "firstName": "Nargiza",
+      "lastName": "Yuldasheva",
+      "birthDate": "1995-11-05",
+      "passport": "3206789",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": 7,
+      "firstName": "Rustam",
+      "lastName": "Islomov",
+      "birthDate": "1984-09-30",
+      "passport": "3309876",
+      "gender": "male",
+      "active": false
+    },
+    {
+      "id": 8,
+      "firstName": "Zarina",
+      "lastName": "Sattorova",
+      "birthDate": "1991-06-22",
+      "passport": "3405432",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": 9,
+      "firstName": "Azamat",
+      "lastName": "Murodov",
+      "birthDate": "1986-04-18",
+      "passport": "3506543",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": 10,
+      "firstName": "Madina",
+      "lastName": "Ergasheva",
+      "birthDate": "1993-12-12",
+      "passport": "3608765",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": 11,
+      "firstName": "Bekzod",
+      "lastName": "Soliyev",
+      "birthDate": "1989-08-03",
+      "passport": "3705432",
+      "gender": "male",
+      "active": false
+    },
+    {
+      "id": 12,
+      "firstName": "Lola",
+      "lastName": "Kamilova",
+      "birthDate": "1996-02-28",
+      "passport": "3806543",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": 13,
+      "firstName": "Doston",
+      "lastName": "Ganiev",
+      "birthDate": "1990-05-25",
+      "passport": "3907654",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": 14,
+      "firstName": "Sevara",
+      "lastName": "Mamatova",
+      "birthDate": "1994-10-14",
+      "passport": "4008765",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": 15,
+      "firstName": "Oybek",
+      "lastName": "Nurmatov",
+      "birthDate": "1987-01-09",
+      "passport": "4109876",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": 16,
+      "firstName": "Nilufar",
+      "lastName": "Abdullaeva",
+      "birthDate": "1992-07-07",
+      "passport": "4202345",
+      "gender": "female",
+      "active": false
+    },
+    {
+      "id": 17,
+      "firstName": "Javohir",
+      "lastName": "Saidov",
+      "birthDate": "1985-04-03",
+      "passport": "4303456",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": 18,
+      "firstName": "Gulbahor",
+      "lastName": "Rakhimova",
+      "birthDate": "1993-09-21",
+      "passport": "4404567",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": 19,
+      "firstName": "Ulugbek",
+      "lastName": "Iskandarov",
+      "birthDate": "1988-03-17",
+      "passport": "4505678",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": 20,
+      "firstName": "Rayhon",
+      "lastName": "Mukhammedova",
+      "birthDate": "1995-11-11",
+      "passport": "4606789",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": 21,
+      "firstName": "Temur",
+      "lastName": "Tursunov",
+      "birthDate": "1989-05-19",
+      "passport": "4707890",
+      "gender": "male",
+      "active": false
+    },
+    {
+      "id": 22,
+      "firstName": "Dilshoda",
+      "lastName": "Juraeva",
+      "birthDate": "1994-02-02",
+      "passport": "4808901",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": 23,
+      "firstName": "Kamol",
+      "lastName": "Obidov",
+      "birthDate": "1991-06-16",
+      "passport": "4909012",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": 24,
+      "firstName": "Mehriniso",
+      "lastName": "Hamidova",
+      "birthDate": "1993-07-23",
+      "passport": "5000123",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": 25,
+      "firstName": "Islom",
+      "lastName": "Bahromov",
+      "birthDate": "1986-12-29",
+      "passport": "5101234",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": 26,
+      "firstName": "Mushtariy",
+      "lastName": "Sharipova",
+      "birthDate": "1992-03-08",
+      "passport": "5202345",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": 27,
+      "firstName": "Bahrom",
+      "lastName": "Qodirov",
+      "birthDate": "1987-04-27",
+      "passport": "5303456",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": 28,
+      "firstName": "Maftuna",
+      "lastName": "Saidova",
+      "birthDate": "1995-08-31",
+      "passport": "5404567",
+      "gender": "female",
+      "active": false
+    },
+    {
+      "id": 29,
+      "firstName": "Farrukh",
+      "lastName": "Hakimov",
+      "birthDate": "1988-09-15",
+      "passport": "5505678",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": 30,
+      "firstName": "Dilafruz",
+      "lastName": "Toshpulatova",
+      "birthDate": "1996-01-20",
+      "passport": "5606789",
+      "gender": "female",
+      "active": true
+    }
+  ],
+  "documents": [
+    { "id": 1, "type": "счет-фактура", "number": "INV-001", "date": "2024-07-01", "description": "Счёт за услуги", "invoiceType": "standard", "employeeId": 1 },
+    { "id": 2, "type": "счет-фактура", "number": "INV-002", "date": "2024-07-02", "description": "Счёт за товары", "invoiceType": "standard", "employeeId": 2 },
+    { "id": 3, "type": "доверенность", "number": "POA-003", "date": "2024-07-03", "description": "Доверенность на доставку", "attorneyFullName": "Alisher Rahimov", "employeeId": 3 },
+    { "id": 4, "type": "счет-фактура", "number": "INV-004", "date": "2024-07-04", "description": "Счёт за консультацию", "invoiceType": "standard", "employeeId": 4 },
+    { "id": 15, "type": "счет-фактура", "number": "INV-004", "date": "2024-07-04", "description": "Счёт за консультацию", "invoiceType": "standard", "employeeId": 4 },
+    { "id": 16, "type": "доверенность", "number": "INV-004", "date": "2024-05-01", "description": "Счёт за консультацию", "invoiceType": "standard", "employeeId": 4 },
+    { "id": 5, "type": "счет-фактура", "number": "INV-005", "date": "2024-09-05", "description": "Счёт за обучение", "invoiceType": "standard", "employeeId": 5 },
+    { "id": 6, "type": "доверенность", "number": "POA-006", "date": "2024-07-06", "description": "Доверенность на получение", "attorneyFullName": "Nargiza Yuldasheva", "employeeId": 6 },
+    { "id": 7, "type": "счет-фактура", "number": "INV-007", "date": "2024-07-07", "description": "Счёт за обслуживание", "invoiceType": "standard", "employeeId": 7 },
+    { "id": 8, "type": "доверенность", "number": "POA-008", "date": "2024-07-08", "description": "Доверенность на материалы", "attorneyFullName": "Zarina Sattorova", "employeeId": 8 }
+  ]
+}
